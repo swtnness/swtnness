@@ -8,7 +8,7 @@ A solution-oriented engineering professional bridging the gap between technology
 ---
 
 ### 🛠️ Areas of Exploration & Learning
-I am currently immersing myself in multiple languages and tools, driven by the conviction that in technology—as in life—there are no absolute experts, only persistent learners.
+I am currently immersing myself in multiple languages and tools, driven by the conviction that in technology (as in life) there are no absolute experts, only persistent learners.
 
 * **Languages in practice:** Java, Python, SQL, C, C++, Rust, Mojo.
 * **Technical interests:** Data structures, programming logic, and optimization.
