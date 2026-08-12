@@ -7,14 +7,14 @@ A solution-oriented engineering professional bridging the gap between technology
 
 ---
 
-### 🛠️ Areas of Exploration & Learning
+### Areas of Exploration & Learning
 I am currently immersing myself in multiple languages and tools, driven by the conviction that in technology (as in life) there are no absolute experts, only persistent learners.
 
 * **Languages in practice:** Java, Python, SQL, C, C++, Rust, Mojo.
 * **Technical interests:** Data structures, programming logic, and optimization.
 * **Current focus:** Strengthening core foundations in systems engineering and bilingual communication (English/Spanish).
 
-### 📚 Beyond the Code
+### Beyond the Code
 * **Reading:** Existential philosophy, science, and literature.
 * **Life philosophy:** One must imagine Sisyphus happy.
 * **Company:** My two cats, the loves of my life.
