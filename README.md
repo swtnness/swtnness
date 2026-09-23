@@ -18,6 +18,7 @@ I specialize in foundational software engineering with a growing focus on Machin
 
 * **Technical Focus:** Machine Learning, Cybersecurity, Linear Algebra, and System Architecture.
 * **Engineering Mindset:** Prioritizing core logic, mathematical rigor, and security-first design.
+* **Languages & Communication:** English (C1 Advanced) · Spanish (Native) · Currently learning French & Italian.
 * **Outside the IDE:** Chess player (2100 ELO), consistent strength training, and literature.
 
 <br>
