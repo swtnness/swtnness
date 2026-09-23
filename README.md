@@ -18,8 +18,20 @@ I specialize in foundational software engineering with a growing focus on Machin
 
 * **Technical Focus:** Machine Learning, Cybersecurity, Linear Algebra, and System Architecture.
 * **Engineering Mindset:** Prioritizing core logic, mathematical rigor, and security-first design.
-* **Languages & Communication:** English (C1 Advanced) · Spanish (Native) · Currently learning French & Italian.
 * **Outside the IDE:** Chess player (2100 ELO), consistent strength training, and literature.
+
+<br>
+
+## ⟡ Spoken Languages
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Spanish-Native-EAB8E4?style=for-the-badge&logoColor=4a154b" />
+<img src="https://img.shields.io/badge/English-C1_Advanced-D6A8E0?style=for-the-badge&logoColor=4a154b" />
+<img src="https://img.shields.io/badge/French-Learning-F3C6E0?style=for-the-badge&logoColor=4a154b" />
+<img src="https://img.shields.io/badge/Italian-Learning-EAB8E4?style=for-the-badge&logoColor=4a154b" />
+
+</div>
 
 <br>
 
