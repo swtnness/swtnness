@@ -3,22 +3,30 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vannesa%20Pulido&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Math%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/swtnness">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=D6A8E0&center=true&vCenter=true&width=550&lines=Systems+Engineering+Student+%F0%9F%92%BB;Linear+Algebra+%26+Calculus+Lover+%F0%9F%93%90;Exploring+Machine+Learning+%F0%9F%A7%A0;Chess+%C2%B7+Astronomy+%C2%B7+Books+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=D6A8E0&center=true&vCenter=true&width=550&lines=Systems+Engineering+Student;Linear+Algebra+%26+Calculus;Exploring+Machine+Learning;Chess+%C2%B7+Astronomy+%C2%B7+Books" alt="Typing SVG" />
 </a>
 
 </div>
 
 <br>
 
-## 🌸 About me
+## ✦ About Me
 
-Hey, I'm Vannesa — a Systems Engineering student based in Medellín, Colombia. Most of my brain space these days goes to linear algebra and calculus, and I'm slowly building my way into machine learning and cybersecurity. I like problems that actually have a clean, elegant solution.
+Hi, I'm Vannesa — a Systems Engineering student based in Medellín, Colombia. I spend most of my time somewhere between lecture notes and side projects, trying to actually understand the "why" behind things instead of just memorizing formulas.
 
-Outside of that: I play chess, I'm into astronomy, I read whenever I can, and I lift weights pretty consistently.
+Linear algebra and calculus are the subjects I keep coming back to — there's something satisfying about a proof that clicks into place. That same curiosity is pulling me toward machine learning and cybersecurity right now, one concept at a time.
+
+> "Intelligence is the ability to adapt to change." — Stephen Hawking
+
+Outside of school, I play chess, read whenever I get the chance, and spend a lot of time looking up — astronomy has been a quiet obsession of mine for years. I also lift weights consistently, which taught me more about discipline than most classes have.
+
+> "Imagination is more important than knowledge." — Albert Einstein
+
+I don't think either quote makes me special — they just describe the kind of student I'm trying to be: curious first, certain later.
 
 <br>
 
-## 🧮 Some math I love
+## ∴ Equations I Admire
 
 <div align="center">
 
@@ -42,7 +50,7 @@ $$\theta := \theta - \alpha \nabla J(\theta)$$
 
 <br>
 
-## 🛠️ Tech stack
+## ⌁ Tech Stack
 
 <div align="center">
 
@@ -67,7 +75,7 @@ $$\theta := \theta - \alpha \nabla J(\theta)$$
 
 <br>
 
-## 📊 Stats
+## ✧ Stats
 
 <div align="center">
 
@@ -82,7 +90,7 @@ $$\theta := \theta - \alpha \nabla J(\theta)$$
 
 <br>
 
-## 💌 Let's connect
+## ⟡ Let's Connect
 
 <div align="center">
 
@@ -95,4 +103,3 @@ $$\theta := \theta - \alpha \nabla J(\theta)$$
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
 </div>
-
