@@ -1,31 +1,47 @@
-# Vannesa | Systems Engineering Student & Developer
+# Hi, I'm Vannesa ♡
 
-> "The struggle itself toward the heights is enough to fill a man's heart. One must imagine Sisyphus happy." — **Albert Camus**
+### Software Development Student · Systems Engineering · Curious about AI & Space
 
-### Profile & Approach
-A solution-oriented engineering professional bridging the gap between technology and analytical logic. My approach to development is rooted in continuous improvement and intellectual rigor, viewing knowledge as a cyclical process of constant refinement. I apply critical thinking disciplined by a strong humanistic foundation, allowing me to approach software architecture with precision, ethics, and a high capacity for breaking down complex abstractions into functional solutions.
+> *“One must imagine Sisyphus happy.”* — Albert Camus
 
----
+I'm a software development student from Colombia, currently building my way into systems engineering and exploring everything that catches my curiosity along the way.
 
-### Areas of Exploration & Learning
-I am currently immersing myself in multiple languages and tools, driven by the conviction that in technology (as in life) there are no absolute experts, only persistent learners.
+I like understanding how things work, breaking complicated problems into smaller ones, and then trying to build something out of them.
 
-* **Languages in practice:** Java, Python, SQL, C, C++, Rust, Mojo.
-* **Technical interests:** Data structures, programming logic, and optimization.
-* **Current focus:** Strengthening core foundations in systems engineering and bilingual communication (English/Spanish).
-
-### Beyond the Code
-* **Reading:** Existential philosophy, science, and literature.
-* **Life philosophy:** One must imagine Sisyphus happy.
-* **Company:** My two cats, the loves of my life.
-* **Chess:** Currently 2100 ELO.
+I'm especially interested in **software, artificial intelligence, mathematics, astronomy and space technology**. My long-term goal is to work on technology that goes far beyond the screen.
 
 ---
 
-### Connect with Me
-* **LinkedIn:** (https://www.linkedin.com/in/vannesa-pulido-estrada-aa26a024a/)
-* **Email:** nnesa1485@gmail.com
+## ୨୧ What I'm learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql,postgres,git,js&theme=dark" />
-</p>
+I'm currently working with:
+
+- **Languages:** Java · Python · C · C++ · SQL · Rust · Mojo
+- **Foundations:** Data structures · Algorithms · Programming logic · Mathematics
+- **Currently learning:** Systems engineering, software development and machine learning
+- **Languages:** Spanish · English
+
+I don't consider myself an expert in all of these yet. Some are things I use regularly, others are things I'm still exploring.
+
+---
+
+## ♡ Beyond programming
+
+When I'm not coding, I'm probably reading, studying something completely unrelated, playing chess or going down an astronomy rabbit hole.
+
+- **Reading:** Philosophy, science & literature
+- **Chess:** 2100 ELO
+- **Building:** Personal projects, experiments & whatever I feel like learning next
+
+> I like learning things that make me ask better questions.
+
+---
+
+## Currently
+
+```text
+Learning        → Systems Engineering + Software Development
+Exploring       → Machine Learning + AI
+Reading         → Philosophy, science & literature
+Looking into    → Space technology
+Building        → My portfolio, one project at a time
