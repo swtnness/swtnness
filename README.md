@@ -1,47 +1,52 @@
-# Hi, I'm Vannesa ♡
+<div align="center">
 
-### Software Development Student · Systems Engineering · Curious about AI & Space
+# ♡ VANNE
 
-> *“One must imagine Sisyphus happy.”* — Albert Camus
+### Software Development Student · Systems Engineering · Cybersecurity
 
-I'm a software development student from Colombia, currently building my way into systems engineering and exploring everything that catches my curiosity along the way.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=E8A9C4&center=true&vCenter=true&width=600&lines=building+things+with+code;learning+software+%26+cybersecurity;always+working+on+something+new" />
 
-I like understanding how things work, breaking complicated problems into smaller ones, and then trying to build something out of them.
+<br>
 
-I'm especially interested in **software, artificial intelligence, mathematics, astronomy and space technology**. My long-term goal is to work on technology that goes far beyond the screen.
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=E8A9C4)](https://linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=E8A9C4)](mailto:your@email.com)
 
----
-
-## ୨୧ What I'm learning
-
-I'm currently working with:
-
-- **Languages:** Java · Python · C · C++ · SQL · Rust · Mojo
-- **Foundations:** Data structures · Algorithms · Programming logic · Mathematics
-- **Currently learning:** Systems engineering, software development and machine learning
-- **Languages:** Spanish · English
-
-I don't consider myself an expert in all of these yet. Some are things I use regularly, others are things I'm still exploring.
+</div>
 
 ---
 
-## ♡ Beyond programming
+## `> whoami`
 
-When I'm not coding, I'm probably reading, studying something completely unrelated, playing chess or going down an astronomy rabbit hole.
+I'm Vannesa, a software development student from Colombia.
 
-- **Reading:** Philosophy, science & literature
-- **Chess:** 2100 ELO
-- **Building:** Personal projects, experiments & whatever I feel like learning next
+I'm interested in understanding how software works from the inside — from writing code and designing systems to understanding how they can be secured.
 
-> I like learning things that make me ask better questions.
+Right now, I'm studying **software development, systems engineering and cybersecurity**, while building projects to put what I learn into practice.
+
+I like learning by actually making things, breaking them, fixing them and trying again.
 
 ---
 
-## Currently
+## `> currently_learning`
 
 ```text
-Learning        → Systems Engineering + Software Development
-Exploring       → Machine Learning + AI
-Reading         → Philosophy, science & literature
-Looking into    → Space technology
-Building        → My portfolio, one project at a time
+SOFTWARE
+├── Java
+├── Python
+├── C / C++
+├── SQL
+├── Data Structures
+└── Algorithms
+
+CYBERSECURITY
+├── Networking
+├── Linux
+├── Web Security
+├── Security Fundamentals
+└── Ethical Hacking
+
+OTHER
+├── Git & GitHub
+├── Problem Solving
+└── English
