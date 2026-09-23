@@ -22,7 +22,56 @@
 
 <div align="center">
 
-```text
+</div>
+<br>
+## `01 / ABOUT`
+I'm Vannesa, a Software Development student from Colombia.
+I'm currently building strong foundations in programming, systems and computer science while studying **Cybersecurity and Machine Learning**.
+I enjoy understanding how software works, how systems communicate and how data can be used to build intelligent applications.
+Most of what I learn ends up as code, experiments, notes or a project here on GitHub.
+<br>
+<div align="center">
+## `02 / CURRENT FOCUS`
+<table>
+<tr>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="55"/>
+### MACHINE LEARNING
+Python
+Data Analysis
+Statistics
+Data Preprocessing
+Feature Engineering
+Model Training
+Model Evaluation
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/security-checked.png" width="55"/>
+### CYBERSECURITY
+Linux
+Networking
+Web Security
+Authentication
+Cryptography
+Security Fundamentals
+Ethical Hacking
+</td>
+<td width="33%" align="center">
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="55"/>
+### SOFTWARE
+Java
+Python
+C
+C++
+SQL
+Data Structures
+Algorithms
+Object Oriented Programming
+</td>
+</tr>
+</table>
+</div>
+<br>
 ╭────────────────────────────────────────────╮
 │                                            │
 │   $ whoami                                 │
