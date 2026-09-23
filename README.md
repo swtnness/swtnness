@@ -1,52 +1,66 @@
 <div align="center">
 
-# ♡ VANNE
-
-### Software Development Student · Systems Engineering · Cybersecurity
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=E8A9C4&center=true&vCenter=true&width=600&lines=building+things+with+code;learning+software+%26+cybersecurity;always+working+on+something+new" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:15151D,100:E8A9C4&height=180&section=header&text=Vannesa%20Pulido&fontSize=45&fontColor=FFFFFF&fontAlignY=35&desc=Software%20Development%20%7C%20Cybersecurity%20%7C%20Machine%20Learning&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white)](https://github.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=E8A9C4)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=E8A9C4)](mailto:your@email.com)
+<a href="https://github.com/swtnness">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=E8A9C4" />
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8A9C4" />
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=E8A9C4&center=true&vCenter=true&width=650&lines=Software+Development+Student;Learning+Cybersecurity+%26+Machine+Learning;Building+systems%2C+breaking+problems+apart;Turning+curiosity+into+code" />
 
 </div>
 
----
-
-## `> whoami`
-
-I'm Vannesa, a software development student from Colombia.
-
-I'm interested in understanding how software works from the inside — from writing code and designing systems to understanding how they can be secured.
-
-Right now, I'm studying **software development, systems engineering and cybersecurity**, while building projects to put what I learn into practice.
-
-I like learning by actually making things, breaking them, fixing them and trying again.
+<br>
 
 ---
 
-## `> currently_learning`
+<div align="center">
+
+### `about_me`
+
+</div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+### Hi, I'm Vannesa ♡
+
+I'm a **Software Development student from Colombia**, currently expanding my foundations in **systems engineering, cybersecurity and machine learning**.
+
+I enjoy understanding how things work beneath the surface — from algorithms and data structures to networks, software architecture and security.
+
+I'm especially interested in the intersection between **software engineering, artificial intelligence and cybersecurity**.
+
+My approach is simple:
+
+> **Learn deeply. Build constantly. Question everything.**
+
+I'm currently focused on strengthening my fundamentals and turning what I learn into actual projects, experiments and technical documentation.
+
+</td>
+
+<td width="40%" valign="top">
 
 ```text
-SOFTWARE
-├── Java
-├── Python
-├── C / C++
-├── SQL
-├── Data Structures
-└── Algorithms
-
-CYBERSECURITY
-├── Networking
-├── Linux
-├── Web Security
-├── Security Fundamentals
-└── Ethical Hacking
-
-OTHER
-├── Git & GitHub
-├── Problem Solving
-└── English
+┌─────────────────────────┐
+│        VANNE.exe        │
+├─────────────────────────┤
+│                         │
+│  role      student      │
+│  location  Colombia     │
+│  focus     software     │
+│            security     │
+│            ML / AI      │
+│                         │
+│  status    learning...  │
+│                         │
+└─────────────────────────┘
