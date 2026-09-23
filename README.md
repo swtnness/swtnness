@@ -12,17 +12,13 @@
 
 ## ✦ About Me
 
-Hi, I'm Vannesa — a Systems Engineering student based in Medellín, Colombia. I spend most of my time somewhere between lecture notes and side projects, trying to actually understand the "why" behind things instead of just memorizing formulas.
+Hi, I'm Vannesa! Systems Engineering student based in Medellín, Colombia.
 
-Linear algebra and calculus are the subjects I keep coming back to — there's something satisfying about a proof that clicks into place. That same curiosity is pulling me toward machine learning and cybersecurity right now, one concept at a time.
+I specialize in foundational software engineering with a growing focus on Machine Learning security, system optimization, and analytical problem-solving.
 
-> "Intelligence is the ability to adapt to change." — Stephen Hawking
-
-Outside of school, I play chess, read whenever I get the chance, and spend a lot of time looking up — astronomy has been a quiet obsession of mine for years. I also lift weights consistently, which taught me more about discipline than most classes have.
-
-> "Imagination is more important than knowledge." — Albert Einstein
-
-I don't think either quote makes me special — they just describe the kind of student I'm trying to be: curious first, certain later.
+* **Technical Focus:** Machine Learning, Cybersecurity, Linear Algebra, and System Architecture.
+* **Engineering Mindset:** Prioritizing core logic, mathematical rigor, and security-first design.
+* **Outside the IDE:** Chess player (2100 ELO), consistent strength training, and literature.
 
 <br>
 
