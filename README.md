@@ -1,114 +1,206 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Vannesa%20Pulido&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Systems%20Engineering%20%7C%20Math%20%7C%20Machine%20Learning&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Vannesa%20Pulido&fontSize=46&fontColor=58A6FF&fontAlignY=38&desc=Systems%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Security&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://github.com/swtnness">
-  <img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=500&pause=1200&color=D6A8E0&center=true&vCenter=true&width=550&lines=Systems+Engineering+Student;Linear+Algebra+%26+Calculus;Exploring+Machine+Learning;Chess+%C2%B7+Astronomy+%C2%B7+Books" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Building+with+Python+%7C+Java+%7C+C%2B%2B;Machine+Learning+%26+Cybersecurity;Algorithms+%7C+Mathematics+%7C+Systems" alt="Typing SVG" />
 </a>
 
-</div>
-
 <br>
 
-## ✦ About Me
-
-Hi, I'm Vannesa! Systems Engineering student based in Medellín, Colombia.
-
-I specialize in foundational software engineering with a growing focus on Machine Learning security, system optimization, and analytical problem-solving.
-
-* **Technical Focus:** Machine Learning, Cybersecurity, Linear Algebra, and System Architecture.
-* **Engineering Mindset:** Prioritizing core logic, mathematical rigor, and security-first design.
-* **Outside the IDE:** Chess player (2100 ELO), consistent strength training, and literature.
-
-<br>
-
-## ⟡ Spoken Languages
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Spanish-Native-EAB8E4?style=for-the-badge&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/English-C1_Advanced-D6A8E0?style=for-the-badge&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/French-Learning-F3C6E0?style=for-the-badge&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/Italian-Learning-EAB8E4?style=for-the-badge&logoColor=4a154b" />
+<img src="https://komarev.com/ghpvc/?username=swtnness&style=flat-square&color=238636&label=PROFILE+VIEWS" />
 
 </div>
 
-<br>
+---
 
-## ∴ Equations I Admire
+## `> whoami`
+
+```text
+Name        : Vannesa Pulido
+Location    : Medellín, Colombia
+Field       : Systems Engineering
+Focus       : Machine Learning · Cybersecurity · Software Engineering
+Interests   : Algorithms · Mathematics · Systems · Optimization
+```
+
+I'm a **Systems Engineering student** focused on understanding how software, mathematics, and intelligent systems work from the ground up.
+
+My current interests sit at the intersection of **Machine Learning, cybersecurity, algorithms, system architecture, and mathematical computing**.
+
+I enjoy building software where correctness, performance, and clean system design matter.
+
+---
+
+## `> current_focus`
+
+```python
+current_focus = {
+    "machine_learning": [
+        "ML fundamentals",
+        "model optimization",
+        "ML security"
+    ],
+
+    "computer_science": [
+        "algorithms",
+        "data structures",
+        "software architecture"
+    ],
+
+    "mathematics": [
+        "linear algebra",
+        "calculus",
+        "optimization"
+    ],
+
+    "security": [
+        "cybersecurity fundamentals",
+        "secure system design"
+    ]
+}
+```
+
+---
+
+## `> tech_stack`
+
+### Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,mysql&theme=dark" />
+</p>
+
+### Development & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,html,css&theme=dark" />
+</p>
+
+### Currently exploring
+
+<p align="left">
+
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
+![Algorithms](https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logo=thealgorithms&logoColor=58A6FF)
+![MATLAB](https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=mathworks&logoColor=58A6FF)
+
+</p>
+
+---
+
+## `> engineering_interests`
+
+```text
+01. Machine Learning
+    └── Mathematical foundations
+    └── Optimization
+    └── Model security
+
+02. Software Engineering
+    └── System architecture
+    └── Clean code
+    └── Performance
+
+03. Cybersecurity
+    └── Secure software
+    └── System vulnerabilities
+    └── Security-first architecture
+
+04. Mathematics
+    └── Linear algebra
+    └── Calculus
+    └── Numerical methods
+```
+
+---
+
+## `> mathematical_foundations`
 
 <div align="center">
 
-**Euler's identity**
+### Linear Algebra
 
-$$e^{i\pi} + 1 = 0$$
+$$A\mathbf{v} = \lambda\mathbf{v}$$
 
-**Fundamental Theorem of Calculus**
+### Optimization
 
-$$\int_a^b f'(x)\,dx = f(b) - f(a)$$
+$$\theta_{t+1} = \theta_t - \alpha \nabla J(\theta_t)$$
 
-**Eigenvalues & eigenvectors**
+### Calculus
 
-$$A\vec{v} = \lambda\vec{v}$$
+$$\int_a^b f'(x)\,dx = f(b)-f(a)$$
 
-**Gradient descent**
+### Euler's Identity
 
-$$\theta := \theta - \alpha \nabla J(\theta)$$
+$$e^{i\pi}+1=0$$
 
 </div>
 
-<br>
+---
 
-## ⌁ Tech Stack
+## `> github_stats`
 
 <div align="center">
 
-**Languages**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swtnness&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
 
-<img src="https://img.shields.io/badge/Python-EAB8E4?style=for-the-badge&logo=python&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/Java-D6A8E0?style=for-the-badge&logo=openjdk&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/C++-F3C6E0?style=for-the-badge&logo=cplusplus&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/C-EAB8E4?style=for-the-badge&logo=c&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/SQL-D6A8E0?style=for-the-badge&logo=mysql&logoColor=4a154b" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtnness&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 
-**Web & Tools**
+<br>
 
-<img src="https://img.shields.io/badge/HTML5-F3C6E0?style=for-the-badge&logo=html5&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/CSS3-EAB8E4?style=for-the-badge&logo=css3&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/JavaScript-D6A8E0?style=for-the-badge&logo=javascript&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/Linux-F3C6E0?style=for-the-badge&logo=linux&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/Git-EAB8E4?style=for-the-badge&logo=git&logoColor=4a154b" />
-<img src="https://img.shields.io/badge/MATLAB-D6A8E0?style=for-the-badge&logo=mathworks&logoColor=4a154b" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swtnness&theme=github-dark-blue&hide_border=true" />
 
 </div>
 
-<br>
+---
 
-## ✧ Stats
+## `> languages`
+
+```text
+Spanish    ████████████████████  Native
+English    █████████████████░░░  C1 Advanced
+French     ███████░░░░░░░░░░░░  Learning
+Italian    ███████░░░░░░░░░░░░  Learning
+```
+
+---
+
+## `> beyond_code`
+
+```bash
+$ interests --list
+Chess       → 2100 ELO
+Astronomy   → exploring the universe
+Literature  → always reading
+Training    → strength & consistency
+```
+
+---
+
+## `> connect`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=swtnness&show_icons=true&theme=transparent&hide_border=true&title_color=B983C4&icon_color=D6A8E0&text_color=555555&ring_color=EAB8E4" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtnness&layout=compact&theme=transparent&hide_border=true&title_color=B983C4&text_color=555555&langs_count=8" />
+<a href="https://github.com/swtnness">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+</a>
 
-<br>
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swtnness&theme=transparent&hide_border=true&ring=D6A8E0&fire=EAB8E4&currStreakLabel=B983C4&sideLabels=555555&currStreakNum=555555&sideNums=555555&dates=999999" />
-
-</div>
-
-<br>
-
-## ⟡ Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/swtnness"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-D6A8E0?style=for-the-badge&logo=linkedin&logoColor=4a154b" /></a>
-<a href="#"><img src="https://img.shields.io/badge/Instagram-EAB8E4?style=for-the-badge&logo=instagram&logoColor=4a154b" /></a>
+<a href="#">
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+</a>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
+```text
+Think mathematically. Build systematically. Learn continuously.
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=80&section=footer" width="100%"/>
 
 </div>
