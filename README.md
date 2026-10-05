@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Vannesa%20Pulido&fontSize=46&fontColor=58A6FF&fontAlignY=38&desc=Systems%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Security&descAlignY=62&descSize=17" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:161B22,100:0D1117&height=170&section=header&text=Vannesa%20Pulido&fontSize=46&fontColor=F8D7E8&fontAlignY=38&desc=Systems%20Engineering%20%C2%B7%20Machine%20Learning%20%C2%B7%20Security&descAlignY=62&descSize=17" width="100%"/>
 
 <a href="https://github.com/swtnness">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Building+with+Python+%7C+Java+%7C+C%2B%2B;Machine+Learning+%26+Cybersecurity;Algorithms+%7C+Mathematics+%7C+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=E8B4CF&center=true&vCenter=true&width=700&lines=Systems+Engineering+Student;Building+with+Python+%7C+Java+%7C+C%2B%2B;Machine+Learning+%26+Cybersecurity;Algorithms+%7C+Mathematics+%7C+Systems" alt="Typing SVG" />
 </a>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=swtnness&style=flat-square&color=238636&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=swtnness&style=flat-square&color=D89BBE&label=PROFILE+VIEWS" />
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## `> whoami`
 
-```text
+```text id="a5rp1v"
 Name        : Vannesa Pulido
 Location    : Medellín, Colombia
 Field       : Systems Engineering
@@ -34,7 +34,7 @@ I enjoy building software where correctness, performance, and clean system desig
 
 ## `> current_focus`
 
-```python
+```python id="av7wpu"
 current_focus = {
     "machine_learning": [
         "ML fundamentals",
@@ -81,10 +81,10 @@ current_focus = {
 
 <p align="left">
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F7931E)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-161B22?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-![Algorithms](https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logo=thealgorithms&logoColor=58A6FF)
-![MATLAB](https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=mathworks&logoColor=58A6FF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161B22?style=for-the-badge&logo=scikitlearn&logoColor=F8D7E8)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-161B22?style=for-the-badge&logo=hackthebox&logoColor=E8B4CF)
+![Algorithms](https://img.shields.io/badge/Algorithms-161B22?style=for-the-badge&logo=thealgorithms&logoColor=D89BBE)
+![MATLAB](https://img.shields.io/badge/MATLAB-161B22?style=for-the-badge&logo=mathworks&logoColor=F8D7E8)
 
 </p>
 
@@ -92,7 +92,7 @@ current_focus = {
 
 ## `> engineering_interests`
 
-```text
+```text id="g7dome"
 01. Machine Learning
     └── Mathematical foundations
     └── Optimization
@@ -144,13 +144,13 @@ $$e^{i\pi}+1=0$$
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=swtnness&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=swtnness&show_icons=true&theme=transparent&hide_border=true&title_color=F8D7E8&icon_color=E8B4CF&text_color=C9D1D9&ring_color=D89BBE&bg_color=0D1117" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtnness&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=swtnness&layout=compact&theme=transparent&hide_border=true&title_color=F8D7E8&text_color=C9D1D9&bg_color=0D1117&langs_count=8" />
 
 <br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=swtnness&theme=github-dark-blue&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=swtnness&theme=transparent&hide_border=true&background=0D1117&ring=E8B4CF&fire=D89BBE&currStreakLabel=F8D7E8&sideLabels=C9D1D9&currStreakNum=FCEFF6&sideNums=FCEFF6&dates=8B949E" />
 
 </div>
 
@@ -158,7 +158,7 @@ $$e^{i\pi}+1=0$$
 
 ## `> languages`
 
-```text
+```text id="bktt3u"
 Spanish    ████████████████████  Native
 English    █████████████████░░░  C1 Advanced
 French     ███████░░░░░░░░░░░░  Learning
@@ -169,8 +169,9 @@ Italian    ███████░░░░░░░░░░░░  Learning
 
 ## `> beyond_code`
 
-```bash
+```bash id="zfq0mz"
 $ interests --list
+
 Chess       → 2100 ELO
 Astronomy   → exploring the universe
 Literature  → always reading
@@ -184,20 +185,20 @@ Training    → strength & consistency
 <div align="center">
 
 <a href="https://github.com/swtnness">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F8D7E8"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=E8B4CF"/>
 </a>
 
 <a href="#">
-<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
+<img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=D89BBE"/>
 </a>
 
 <br><br>
 
-```text
+```text id="vnigdc"
 Think mathematically. Build systematically. Learn continuously.
 ```
 
