@@ -173,7 +173,6 @@ Italian    ███████░░░░░░░░░░░░  Learning
 $ interests --list
 
 Chess       → 2100 ELO
-Astronomy   → exploring the universe
 Literature  → always reading
 ```
 
