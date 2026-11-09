@@ -1,14 +1,19 @@
-<div align="center">
-  <img src="profile-header.svg" width="880" alt="Vannesa Pulido · Software development" />
-  <p><strong>Systems Engineering student</strong> · Medellín, Colombia</p>
-</div>
+```text
+swtnness@github:~$ cat profile
 
-## Development toolkit
+  VANNESA PULIDO
+  Systems Engineering student
+  Medellín, Colombia
 
-| | |
-| :--- | :--- |
-| **`01` · Programming**<br>Python · Java · C · C++ | **`02` · Web**<br>HTML · CSS · JavaScript |
-| **`03` · Databases**<br>SQL · MySQL | **`04` · Development tools**<br>Git · GitHub · Linux · VS Code |
+  ┌─ DEVELOPMENT ────────────────────────────────┐
+  │ Programming .... Python, Java, C, C++        │
+  │ Web ............ HTML, CSS, JavaScript       │
+  │ Databases ...... SQL, MySQL                  │
+  │ Tools .......... Git, GitHub, Linux, VS Code │
+  └──────────────────────────────────────────────┘
 
-**Foundations** · Algorithms, data structures, linear algebra, and calculus  
-**Currently learning** · Machine learning and cybersecurity fundamentals
+  Foundations ...... Algorithms, data structures
+                     Linear algebra, calculus
+
+  Learning ......... Machine learning, cybersecurity
+```
