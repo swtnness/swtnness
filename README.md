@@ -1,16 +1,14 @@
-# Vannesa Pulido
+<div align="center">
+  <img src="profile-header.svg" width="880" alt="Vannesa Pulido · Software development" />
+  <p><strong>Systems Engineering student</strong> · Medellín, Colombia</p>
+</div>
 
-Systems Engineering student · Medellín, Colombia
+## Development toolkit
 
-### What happens when you click Save?
+| | |
+| :--- | :--- |
+| **`01` · Programming**<br>Python · Java · C · C++ | **`02` · Web**<br>HTML · CSS · JavaScript |
+| **`03` · Databases**<br>SQL · MySQL | **`04` · Development tools**<br>Git · GitHub · Linux · VS Code |
 
-```text
-Tkinter form  →  Python validation  →  MySQL write
-```
-
-That’s how a veterinary app I worked on saves an inventory record. Stock has to be a nonnegative integer, and the form only confirms success once the database saves the record.
-
-**Programming** · Python, Java, C, C++, JavaScript  
-**Web and tools** · HTML, CSS, MySQL, Git, Linux  
-**Foundations** · Algorithms, data structures, linear algebra, calculus  
+**Foundations** · Algorithms, data structures, linear algebra, and calculus  
 **Currently learning** · Machine learning and cybersecurity fundamentals
