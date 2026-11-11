@@ -22,3 +22,4 @@ I’m studying the supervised learning workflow, from preparing a dataset to eva
 | **Web development** | HTML, CSS, JavaScript |
 | **Development environment** | Git, GitHub, Linux, VS Code |
 
+<3
