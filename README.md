@@ -40,3 +40,5 @@ I’m studying the supervised learning workflow, from preparing a dataset to eva
 | **LLM APIs + embeddings + RAG** | AI applications with citations and evaluations[cite: 1] |
 | **Redis + queues + observability** | Caching, asynchronous tasks, reliability[cite: 1] |
 | **Go, Java, or C#** | Specialization based on target roles[cite: 1] |
+
+<3
